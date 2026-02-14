@@ -292,7 +292,7 @@ const Dashboard = () => {
               <thead>
                 <tr>
                   <th>Roll Number</th>
-                  <th> Name</th>
+                  <th> Full Name</th>
                   <th>Email</th>
                   <th>Phone</th>
                   <th>Class</th>
